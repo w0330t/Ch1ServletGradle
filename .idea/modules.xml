@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ch1ServletGradle.iml" filepath="$PROJECT_DIR$/.idea/modules/Ch1ServletGradle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ch1ServletGradle_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Ch1ServletGradle_main.iml" group="Ch1ServletGradle" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Ch1ServletGradle_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Ch1ServletGradle_test.iml" group="Ch1ServletGradle" />
+    </modules>
+  </component>
+</project>
